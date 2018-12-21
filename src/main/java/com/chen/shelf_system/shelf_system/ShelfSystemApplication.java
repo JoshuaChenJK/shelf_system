@@ -10,5 +10,6 @@ public class ShelfSystemApplication {
 		SpringApplication.run(ShelfSystemApplication.class, args);
 	}
 
+
 }
 
